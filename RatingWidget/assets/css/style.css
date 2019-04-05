@@ -1,0 +1,27 @@
+.rating .fa-star {color: #fecd08;}
+
+
+
+.all_stars i:hover{color:#fecd08}
+.all_stars i:hover::before{content: "\f005"}
+
+.all_stars:hover i{color:#fecd08}
+.all_stars:hover i::before{content: "\f005"}
+
+.all_stars i:hover~i{color:#73879C}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
